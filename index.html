@@ -4,29 +4,31 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="assets/style.css">
+    <title>Coding Trivia</title>
 </head>
 <body>
-    <!--Start quiz button-->
-    <div class= "start-btn">
-        <button>Start Quiz</button>
-    </div>
+    <div class="timer custom-timer"></div>
+    <div class="score-brd" id="scoreB">Score Board</div>
+    <!--Starting the Quiz-->
     <div>
-        <p>
-            <ol>
-                <li>you are timed</li>
-                <li>answer wrong and get time docked</li>
-                <li>you get points if answered correcrly</li>
-
-            </ol>
+        <h1>Coding Quiz Challenge</h1>
+        <p id="quiz-info">
+            <br>you are timed<br> 
+            <br>answer wrong and get time docked<br>
+            <br>you get points if answered correcrly<br>
         </p>
+        <button class="start-btn" id="startbtn">Start Quiz</button>
     </div>
 
-    <div class="btns">
-        <button id="quit">Quite</button>
-        <button id="continue">Continue</button>
+    <div>
+
     </div>
-    <script src="script.js"></script>
+    <!--
+    <div>
+        <button class="submit-btn">Submit</button>
+    </div> -->
+    <script src="./assets/script.js"></script>
+
 </body>
 </html>
