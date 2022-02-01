@@ -12,12 +12,12 @@ Deployed Link: [https://cortezstephanie.github.io/Coding-Quiz-JS/](https://corte
 ### Installation
 ```npm i``` then open in default browser
 ### Usage
-![start](./assets/images/start.png)
+![start](./assets/images/start.png)<br>
 1. Here you will have a link to view scores
 <br>
 2. Press the Start button to start game
 
-![question1](./assets/images/question1.png)
+![question1](./assets/images/question1.png)<br>
 3. You are presented with a question 
 <br>
 4. The timer will begin once you start the game
