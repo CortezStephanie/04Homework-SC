@@ -12,19 +12,19 @@ Deployed Link: [https://cortezstephanie.github.io/Coding-Quiz-JS/](https://corte
 ### Installation
 ```npm i``` then open in default browser
 ### Usage
-![start](./assets/images/start.png)<br>
+![start](./assets/images/start.png)
 1. Here you will have a link to view scores
 <br>
 2. Press the Start button to start game
-![question1](./assets/images/question1.png)<br>
+![question1](./assets/images/question1.png)
 3. You are presented with a question 
 <br>
 4. The timer will begin once you start the game
-![question2](./assets/images/question2.png)<br>
+![question2](./assets/images/question2.png)
 5. Once you answer your first question another one will appear
 <br>
 6. answer wrong and you lose time on the timer
-![scoreboard](./assets/images/scoreboard.png)<br>
+![scoreboard](./assets/images/scoreboard.png)
 7. When the time is up you are designated to the score board to put your initials.
 ## License
 This repository is covered by the MIT License  <br> 
