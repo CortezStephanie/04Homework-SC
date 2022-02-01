@@ -16,6 +16,7 @@ Deployed Link: [https://cortezstephanie.github.io/Coding-Quiz-JS/](https://corte
 1. Here you will have a link to view scores
 <br>
 2. Press the Start button to start game
+
 ![question1](./assets/images/question1.png)
 3. You are presented with a question 
 <br>
